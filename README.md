@@ -31,4 +31,4 @@ python quiz_app.py
 4. At the end of the quiz, your score will be displayed and also saved in user_score.txt.
 
 ## Credits
-Project developed by **Radoslav Gadzhovski** as part of university coursework.
+Project developed by **Radoslav Gadzhovski** as part of coursework for the University of Greenwich.
