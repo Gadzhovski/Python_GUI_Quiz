@@ -2,7 +2,7 @@
 # Quiz Application
 
 ## Introduction
-This repository contains a quiz application built using the `tkinter` library in Python. The project was developed as part of the "COMP1811 Python Project" coursework.
+This repository contains a quiz application built using the `tkinter` library in Python.
 
 ## Features
 - **User Authentication**: Users can log in to access the quizzes.
