@@ -1,5 +1,5 @@
 
-# Quiz Application
+# Python GUI Quiz Application
 
 ## Introduction
 This repository contains a quiz application built using the `tkinter` library in Python.
@@ -28,7 +28,5 @@ python quiz_app.py
 1. On launching the application, you will be presented with a login screen.
 2. Log in with your credentials or register if you're a new user.
 3. Choose a quiz and answer the questions.
-4. At the end of the quiz, your score will be displayed and also saved in user_score.txt.
-
-## Credits
-Project developed by **Radoslav Gadzhovski** as part of coursework for the University of Greenwich.
+4. At the end of the quiz, your score will be displayed and also saved in user_score.txt
+5. 
